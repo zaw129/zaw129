@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://www.facebook.com/profile.php?id=100069386615573
-Pssword=
-12345678
+Password.  +95 9 670 366529
+      ma adout....
+@misc{bochkovskiy2020yolov4, 
+title={YOLOv4: Optimal Speed and Accuracy of Object Detection}, 
+
+author={Alexey Bochkovskiy and Chien-Yao Wang and Hong-Yuan Mark Liao}, year={2020}, eprint={2004.10934}, archivePrefix={arXiv}, primaryClass={cs.CV} } 
